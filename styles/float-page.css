@@ -2,7 +2,16 @@ body {
   background-color: black;
   color: white;
 }
-
+img{
+	width:300px;
+	margin:17px;
+}
+.left{
+	float:left;
+}
+.right{
+	float:right;
+}
 main {
   padding-left: 90px;
   padding-right: 90px;
